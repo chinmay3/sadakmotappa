@@ -1,5 +1,5 @@
 opencv-python
-GDAL==3.5.3  # Example - you might need to find a suitable version
+# GDAL
 shapely
 streamlit==1.45.0
 tensorflow==2.16.1
