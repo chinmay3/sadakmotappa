@@ -1,0 +1,10 @@
+# 
+
+streamlit
+opencv-python
+numpy
+Pillow
+matplotlib
+# For GDAL (provides the 'osgeo' module)
+GDAL
+shapely
