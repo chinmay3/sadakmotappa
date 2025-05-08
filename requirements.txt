@@ -1,10 +1,9 @@
-# 
-
-streamlit
 opencv-python
-numpy
-Pillow
-matplotlib
-# For GDAL (provides the 'osgeo' module)
 GDAL
 shapely
+streamlit==1.45.0
+tensorflow==2.16.1
+tf-keras==2.16.0   # This is the Keras 2 package maintained by TensorFlow for TF 2.16+
+numpy==1.26.4      # Your specified version, compatible with Python 3.12
+matplotlib==3.8.4  # Updated for robust Python 3.12 support (3.8+ officially supports 3.12)
+Pillow==10.3.0 
